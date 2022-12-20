@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yunasumiya.github.io/csb-l4kl1c/static/css/main.524a2909.chunk.css",
+    "main.js": "https://yunasumiya.github.io/csb-l4kl1c/static/js/main.77a58876.chunk.js",
+    "main.js.map": "https://yunasumiya.github.io/csb-l4kl1c/static/js/main.77a58876.chunk.js.map",
+    "runtime-main.js": "https://yunasumiya.github.io/csb-l4kl1c/static/js/runtime-main.f751e489.js",
+    "runtime-main.js.map": "https://yunasumiya.github.io/csb-l4kl1c/static/js/runtime-main.f751e489.js.map",
+    "static/js/2.14b9cd44.chunk.js": "https://yunasumiya.github.io/csb-l4kl1c/static/js/2.14b9cd44.chunk.js",
+    "static/js/2.14b9cd44.chunk.js.map": "https://yunasumiya.github.io/csb-l4kl1c/static/js/2.14b9cd44.chunk.js.map",
+    "index.html": "https://yunasumiya.github.io/csb-l4kl1c/index.html",
+    "static/css/main.524a2909.chunk.css.map": "https://yunasumiya.github.io/csb-l4kl1c/static/css/main.524a2909.chunk.css.map",
+    "static/js/2.14b9cd44.chunk.js.LICENSE.txt": "https://yunasumiya.github.io/csb-l4kl1c/static/js/2.14b9cd44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f751e489.js",
+    "static/js/2.14b9cd44.chunk.js",
+    "static/css/main.524a2909.chunk.css",
+    "static/js/main.77a58876.chunk.js"
+  ]
+}
